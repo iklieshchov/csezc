@@ -18,7 +18,7 @@
     "typescript": "^3.9.5"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/iklieshchov/csezc.git"
+    "type": "git",
+    "url": "https://github.com/iklieshchov/csezc.git"
   }
 }

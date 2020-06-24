@@ -1,0 +1,24 @@
+{
+  "name": "csezc",
+  "version": "1.0.0",
+  "description": "npm demo project",
+  "main": "./lib-esm/index.js",
+  "scripts": {
+    "prebuild": "rimraf lib-esm",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "Ihor Klieshchov",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "jest": "^26.0.1",
+    "rimraf": "^3.0.2",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.5"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/iklieshchov/csezc.git"
+  }
+}
